@@ -1,0 +1,16 @@
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\bin\Debug\net5.0\AlgoLab3.exe
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\bin\Debug\net5.0\AlgoLab3.deps.json
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\bin\Debug\net5.0\AlgoLab3.runtimeconfig.json
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\bin\Debug\net5.0\AlgoLab3.runtimeconfig.dev.json
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\bin\Debug\net5.0\AlgoLab3.dll
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\bin\Debug\net5.0\ref\AlgoLab3.dll
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\bin\Debug\net5.0\AlgoLab3.pdb
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\obj\Debug\net5.0\AlgoLab3.csprojAssemblyReference.cache
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\obj\Debug\net5.0\AlgoLab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\obj\Debug\net5.0\AlgoLab3.AssemblyInfoInputs.cache
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\obj\Debug\net5.0\AlgoLab3.AssemblyInfo.cs
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\obj\Debug\net5.0\AlgoLab3.csproj.CoreCompileInputs.cache
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\obj\Debug\net5.0\AlgoLab3.dll
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\obj\Debug\net5.0\ref\AlgoLab3.dll
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\obj\Debug\net5.0\AlgoLab3.pdb
+D:\JetBrains Rider 2021.2.1\projects\AlgoLab3\AlgoLab3\obj\Debug\net5.0\AlgoLab3.genruntimeconfig.cache
